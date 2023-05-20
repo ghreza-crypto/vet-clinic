@@ -5,15 +5,7 @@
   <h1><b>Vet clinic database</b></h1>
 
 </div>
-## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
-<a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -25,12 +17,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
     - [Key Features](#key-features)
 - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -92,54 +78,15 @@ under work[]()
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 <!-- GETTING STARTED -->
+## Getting Started
 
-## 💻 Getting Started <a name="getting-started"></a>
+This repository includes files with plain SQL that can be used to recreate a database:
 
-To get a local copy up and running, follow these steps.
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
-### Prerequisites
-
-- You'll need any code editor 
-
-### Setup
-
-Clone this repository to your desired folder:
-
-```sh
-  git clone git@github.com:https://github.com/ghreza-crypto/vet-clinic.git
-  cd comics 
-```
-
-### Install
-
-Install this project with:
-
-```sh
-  npm install
-```
-
-### Usage
-
-To run the project, execute the following command:
-
-```sh
-  npm start
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-```sh
-  npm test
-```
-
-### Deployment
-
-- Deployed using Render
-
-<p align="right"><a href="#readme-top">Back to top</a></p>
-
+<a name="readme-top"></a>
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
