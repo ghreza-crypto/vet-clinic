@@ -30,6 +30,10 @@
 
 **Vet clinic database** is a database that store the information of animals in clinic.
 
+##  Database Schema Diagram
+
+<img src="diagram.png">
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
